@@ -1,1 +1,0 @@
-# atmanoeirb.github.io
