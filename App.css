@@ -1,6 +1,6 @@
 body {
   /* background-color: rgb(232, 242, 243); */
-  background-image: url('./../public/todo.jpeg');
+  background-image: url('./todo.jpeg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
